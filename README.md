@@ -25,8 +25,24 @@ A identidade visual foi construída para conectar o usuário com a atmosfera vib
 ## 📱 Tela Principal
 
 Abaixo, a visualização da interface principal desenvolvida no Figma:
+<p align="center">
+  <img src="https://github.com/AlexCarrdozo/TOur-Maps/blob/main/Captura%20de%20tela%202026-01-06%20161633.png" alt="Home Screen - TOur Maps" width="250"/>
+</p>
 
-![Home Screen - TOur Maps](https://github.com)
+## 📱 Tela de Login
+
+Abaixo, a visualização da tela de login desenvolvida no Figma:
+<p align="center">
+  <img src="https://github.com/AlexCarrdozo/TOur-Maps/blob/main/Captura%20de%20tela%202026-01-06%20161656.png" alt="Home Screen - TOur Maps" width="250"/>
+</p>
+
+
+## 📱 Tela do Home
+
+Abaixo, a visualização da tela do home desenvolvida no Figma:
+<p align="center">
+  <img src="https://github.com/AlexCarrdozo/TOur-Maps/blob/main/Captura%20de%20tela%202026-01-06%20161718.png" alt="Home Screen - TOur Maps" width="250"/>
+</p>
 
 ## 🔗 Protótipo no Figma
 
