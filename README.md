@@ -45,6 +45,11 @@ Abaixo, a visualização da tela do home desenvolvida no Figma:
   <img src="https://github.com/AlexCarrdozo/TOur-Maps/blob/main/Captura%20de%20tela%202026-01-06%20161718.png" alt="Home Screen - TOur Maps" width="250"/>
 </p>
 
+
+## 👤 Créditos
+Projeto desenvolvido por **Alex Cardozo** e **Fernando Feitosa**.
+
+
 ## 🔗 Protótipo no Figma
 
 Você pode visualizar e interagir com o protótipo clicando no link abaixo:
