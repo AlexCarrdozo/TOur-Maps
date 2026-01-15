@@ -19,8 +19,9 @@ A identidade visual foi construída para conectar o usuário com a atmosfera vib
     * **Bege/Creme:** Cor de fundo que substitui o branco puro para reduzir o cansaço visual e remeter aos tons terrosos e às areias das praias fluviais.
     * **Verde e Amarelo (Logotipo):** Utilizados para reforçar a biodiversidade, o ecoturismo e a identidade nacional/regional.
 * **Tipografia:**
-    * Foi utilizada uma fonte de estilo *Script* (manuscrita) para o logotipo, evocando uma sensação de proximidade, lazer e leveza.
-    * Para os menus e informações técnicas, optou-se por uma fonte *Sans-Serif* moderna, garantindo legibilidade e uma aparência limpa (clean) para o usuário.
+    * Foi utilizada uma fonte de estilo *Script* (manuscrita) para o logotipo, sendo ela a fonte *Pacifico*, evocando uma sensação de proximidade, lazer e leveza.
+    * Para os menus e informações técnicas, optou-se por uma fonte *Inter* moderna, garantindo legibilidade e uma aparência limpa para o usuário.
+    * Para os conteúdos secundários, optou-se pela fonte *Judson*, criando contraste com a principal.
 
 ## 📱 Tela Principal
 
